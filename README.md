@@ -1,0 +1,2 @@
+# Credit_Card_Fraud_Detection
+In this project we perform an exploratory analysis on a kaggle dataset, that describes about the fraudulent tracsactions and normal transactions that have taken place in a span of 2 days. In this exploratory analysis we initially understand and extract incites from the data, we understand that this is a highly imbalanced dataset, thus we modify the dataset size to create a balanced dataset, on this balanced dataset we implement different classification models to predict credit card frauds
